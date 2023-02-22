@@ -11,7 +11,7 @@
 	<groupId>com.springboot</groupId>
 	<artifactId>ecommerceapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ecommerceapp</name>
+	<name>User Service</name>
 	<description>Demo application for the spring boot </description>
 	<properties>
 		<java.version>17</java.version>
